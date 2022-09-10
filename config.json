@@ -1,0 +1,15 @@
+{
+    "DEFAULT LOCATION" : {
+        "COUNTRY"           : "",
+        "STATE"             : "",
+        "COUNTY"            : "",
+        "CITY"              : "",
+        "ZIPCODE"           : 0,
+        "COORDINATES" : {
+            "LAT"           : 0.0,
+            "LONG"          : -0.0
+        },
+        "ACCUWEATHER ID"    : 0
+    },
+    "ISP" : ""
+}
